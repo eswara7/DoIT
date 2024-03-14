@@ -1,0 +1,25 @@
+{
+  "name": "doit",
+  "version": "1.0.0",
+  "description": "this is a simple todo application backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eswara7/DoIT.git"
+  },
+  "author": "Eswara Rao Landa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eswara7/DoIT/issues"
+  },
+  "homepage": "https://github.com/eswara7/DoIT#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.1",
+    "zod": "^3.22.4"
+  }
+}
